@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\FullStack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\fullstack\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\fullstack\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|h:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\fullstack\\bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\FullStack\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\FullStack\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T07:13:11.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\FullStack\\BL\\Class1.cs",
+              "RelativeDocumentMoniker": "BL\\Class1.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\FullStack\\BL\\Class1.cs",
+              "RelativeToolTip": "BL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:06:47.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\FullStack\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "H:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\FullStack\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:06:32.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
