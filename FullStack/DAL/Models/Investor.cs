@@ -5,6 +5,7 @@ namespace FullStack.api;
 
 public partial class Investor
 {
+    
     public int Id { get; set; }
 
     public string? FirstName { get; set; }
