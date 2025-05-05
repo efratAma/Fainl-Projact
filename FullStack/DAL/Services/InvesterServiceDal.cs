@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Services
 {
-    internal class InvesterService: IInvester
+    internal class InvesterServiceDal: IInvesterDal
     {
        public void AddInvester(Investor invester)
         {

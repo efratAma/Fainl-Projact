@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Api
 {
-    public interface IApartment
+    public interface IApartmentDal
     {
         void AddApartment(Apartment apartment);
     }

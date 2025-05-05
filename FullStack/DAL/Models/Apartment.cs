@@ -26,7 +26,6 @@ public partial class Apartment
     public virtual Investor? Invester { get; set; }
 
     public virtual Project ProjectNumberNavigation { get; set; } = null!;
-    public Apartment(ApartmentBl apartmentBl)
-    {
+    
         
     }

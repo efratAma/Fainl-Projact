@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DAL.Api
 {
-    public interface IProject
+    public interface IProjectDal
     {
          void AddProject(Project project);
     }

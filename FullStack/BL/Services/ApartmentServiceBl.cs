@@ -5,24 +5,44 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.DAL.Services;
+using DAL.Services;
+using BL.Api;
+
+
 namespace BL.Services
 {
-    internal class ApartmentServiceBl
+    internal class ApartmentServiceBl: IApartmentServiceBl
     {
-        ApartmentBl Apartment;
-        IApartment apartmentDal;
-        
+
+
+        IApartmentDal apartmentDal;
+
+
+
+        public ApartmentServiceBl(IApartmentDal apartmentDal)
+        {
+            this.apartmentDal = apartmentDal;
+        }
         public bool AddApartmentBl(ApartmentBl apartmentBl)
         {
-            
-            apartmentDal.AddApartment((Apartment)Apartment);
-
-
+            var apartment = ConvertToApartmentDal(apartmentBl);
+            apartmentDal.AddApartment(apartment);
+            return true;
         }
-        public Apartment converToApartmentDal(ApartmentBl apartmentBl)
+        public Apartment ConvertToApartmentDal(ApartmentBl apartmentBl)
         {
-
+            return new Apartment
+            {
+                Id = apartmentBl.Id,
+                SquareMeter = apartmentBl.SquareMeter,
+                ZipCode = apartmentBl.ZipCode,
+                NumberOfRooms = apartmentBl.NumberOfRooms,
+                Floor = apartmentBl.Floor,
+                Price = apartmentBl.Price,
+                InvesterId = apartmentBl.InvesterId,
+                Profit = apartmentBl.Profit,
+                ProjectNumber = apartmentBl.ProjectNumber
+            };
         }
-    }
+    }   
 }

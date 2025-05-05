@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Api
 {
-    internal interface IInvester
+    internal interface IInvesterDal
     {
         void AddInvester(Investor invester);
     }

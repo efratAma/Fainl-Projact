@@ -8,14 +8,15 @@ using System.Threading.Tasks;
 
 namespace DAL.Services
 {
-    internal class ApartmentService: IApartment
+    internal class ApartmentServiceDal: IApartmentDal
     {
         dbClass dbClass;
         public void AddApartment(Apartment apartment)
         {
             dbClass.Apartments.Add(apartment);
+            dbClass.SaveChanges();
         }
-        public ApartmentService()
+        public ApartmentServiceDal()
         {
             
         }
