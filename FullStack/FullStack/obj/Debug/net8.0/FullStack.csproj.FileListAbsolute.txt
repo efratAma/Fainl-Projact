@@ -167,3 +167,7 @@ H:\פרויקט סיום\FullStack\FullStack\bin\Debug\net8.0\runtimes\win\lib\n
 H:\פרויקט סיום\FullStack\FullStack\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 H:\פרויקט סיום\FullStack\FullStack\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 H:\פרויקט סיום\FullStack\FullStack\obj\Debug\net8.0\FullStack.sourcelink.json
+H:\פרויקט סיום\FullStack\FullStack\bin\Debug\net8.0\BL.dll
+H:\פרויקט סיום\FullStack\FullStack\bin\Debug\net8.0\DAL.dll
+H:\פרויקט סיום\FullStack\FullStack\bin\Debug\net8.0\BL.pdb
+H:\פרויקט סיום\FullStack\FullStack\bin\Debug\net8.0\DAL.pdb

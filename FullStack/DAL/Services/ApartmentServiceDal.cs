@@ -1,24 +1,18 @@
 ﻿using DAL.Api;
 using FullStack.api;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace DAL.Services
+public class ApartmentServiceDal : IApartmentDal
 {
-    internal class ApartmentServiceDal: IApartmentDal
+    private readonly dbClass dbClass;
+
+    public ApartmentServiceDal(dbClass dbClass)
     {
-        dbClass dbClass;
-        public void AddApartment(Apartment apartment)
-        {
-            dbClass.Apartments.Add(apartment);
-            dbClass.SaveChanges();
-        }
-        public ApartmentServiceDal()
-        {
-            
-        }
+        this.dbClass = dbClass;
+    }
+
+    public void AddApartment(Apartment apartment)
+    {
+        dbClass.Apartments.Add(apartment);
+        dbClass.SaveChanges();
     }
 }

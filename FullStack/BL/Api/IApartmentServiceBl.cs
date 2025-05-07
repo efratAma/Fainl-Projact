@@ -10,6 +10,6 @@ namespace BL.Api
     public interface IApartmentServiceBl
     {
         Apartment ConvertToApartmentDal(ApartmentBl apartmentBl);
-        bool AddApartmentBl(ApartmentBl apartmentBl)
+        bool AddApartmentBl(ApartmentBl apartmentBl);
     }
 }

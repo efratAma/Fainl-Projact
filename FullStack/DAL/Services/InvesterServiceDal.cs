@@ -8,10 +8,13 @@ using System.Threading.Tasks;
 
 namespace DAL.Services
 {
-    internal class InvesterServiceDal: IInvesterDal
+    public class InvesterServiceDal: IInvesterDal
     {
-       public void AddInvester(Investor invester)
+        dbClass dbclass;
+
+       public void AddInvestor(Investor invester)
         {
+            dbclass.Investors.Add(invester);
 
         }
     }

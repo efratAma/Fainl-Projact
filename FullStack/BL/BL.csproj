@@ -16,7 +16,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj" />
-    <ProjectReference Include="..\FullStack\FullStack.csproj" />
   </ItemGroup>
 
 </Project>

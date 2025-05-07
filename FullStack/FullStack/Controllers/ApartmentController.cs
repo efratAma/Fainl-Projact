@@ -1,7 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using FullStack.Controllers; // Make sure to include the namespace for IApartmentServiceBl
-using BL.Services; // Assuming APartmentsServiceBl is from this namespace
+using FullStack.Controllers; 
 using BL.Api;
+using FullStack.api;
+//using BL.Services;
 
 
 namespace FullStack.Controllers
@@ -10,7 +11,7 @@ namespace FullStack.Controllers
     [ApiController]
     public class ApartmentController : ControllerBase
     {
-        private readonly IApartmentServiceBl _apartmentServiceBl;
+         IApartmentServiceBl _apartmentServiceBl;
 
         public ApartmentController(IApartmentServiceBl apartmentServiceBl)
         {
@@ -18,9 +19,14 @@ namespace FullStack.Controllers
         }
 
         [HttpPut]    
-        public IActionResult AddApartment([FromBody] )
+        public IActionResult AddApartment([FromBody] ApartmentBl apartmentBl)
         {
-
+           if(_apartmentServiceBl.AddApartmentBl(apartmentBl))
+            { 
+                return Ok("Apartment added successfully");
+            }
+           return BadRequest("this apartment is alredy exsist");
         }
+      
     }
 }

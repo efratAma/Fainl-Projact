@@ -11,7 +11,6 @@ public partial class Investor
     public string? FirstName { get; set; }
 
     public string? LastName { get; set; }
-
     public int InvestmentAmount { get; set; }
 
     public virtual ICollection<Apartment> Apartments { get; set; } = new List<Apartment>();

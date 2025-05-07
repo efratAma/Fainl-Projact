@@ -1,4 +1,5 @@
 ﻿using DAL.Api;
+using FullStack.api;
 using System;
 using System.Collections.Generic;
 
@@ -27,6 +28,6 @@ public partial class ApartmentBl
     
     public ApartmentBl()
     {
-        Apartment.
+       
     }
 }

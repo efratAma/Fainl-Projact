@@ -10,3 +10,6 @@ H:\פרויקט סיום\FullStack\DAL\obj\Debug\net8.0\DAL.dll
 H:\פרויקט סיום\FullStack\DAL\obj\Debug\net8.0\refint\DAL.dll
 H:\פרויקט סיום\FullStack\DAL\obj\Debug\net8.0\DAL.pdb
 H:\פרויקט סיום\FullStack\DAL\obj\Debug\net8.0\ref\DAL.dll
+H:\פרויקט סיום\FullStack\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+H:\פרויקט סיום\FullStack\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+H:\פרויקט סיום\FullStack\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
