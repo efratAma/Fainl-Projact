@@ -18,7 +18,7 @@ namespace FullStack.Controllers
             _apartmentServiceBl = apartmentServiceBl;
         }
 
-        [HttpPut]    
+        [HttpPut("AddApartment")]    
         public IActionResult AddApartment([FromBody] ApartmentBl apartmentBl)
         {
            if(_apartmentServiceBl.AddApartmentBl(apartmentBl))

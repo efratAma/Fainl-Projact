@@ -1,5 +1,6 @@
 ﻿using BL.Api;
 using BL.Models;
+using BL.Services;
 using FullStack.api;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -10,15 +11,21 @@ namespace FullStack.Controllers
     [ApiController]
     public class InvestorController : ControllerBase
     {
-        IInvesterServiceBl _investorServiceBl;
-        [HttpPut]
-        public IActionResult AddApartment([FromBody] InvesterBl InvesterBl)
+        private readonly IInvesterServiceBl _investorServiceBl;
+
+        public InvestorController(IInvesterServiceBl investorServiceBl)
+        {
+            _investorServiceBl = investorServiceBl;
+        }
+        
+        [HttpPut("addInvestor")]
+        public IActionResult AddInvestor([FromBody] InvesterBl InvesterBl)
         {
             if (_investorServiceBl.AddAInvesterBl(InvesterBl))
             {
-                return Ok("Apartment added successfully");
+                return Ok("Investor added successfully");
             }
-            return BadRequest("this apartment is alredy exsist");
+            return BadRequest("this Investor is alredy exsist");
         }
       
     }

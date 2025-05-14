@@ -27,6 +27,7 @@ namespace BL.Services
             {
                 var Investor = ConvertToInvesterDal(investerBl);
                 investerDal.AddInvestor(Investor);
+                dbClass.SaveChanges();
                 return true;
             }
             else

@@ -11,8 +11,12 @@ namespace DAL.Services
     public class InvesterServiceDal: IInvesterDal
     {
         dbClass dbclass;
+        public InvesterServiceDal(dbClass _dbclass)
+        {
+            dbclass = _dbclass;
+        }
 
-       public void AddInvestor(Investor invester)
+        public void AddInvestor(Investor invester)
         {
             dbclass.Investors.Add(invester);
 
