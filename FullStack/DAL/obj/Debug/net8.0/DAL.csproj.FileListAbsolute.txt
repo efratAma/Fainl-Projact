@@ -13,3 +13,18 @@ H:\פרויקט סיום\FullStack\DAL\obj\Debug\net8.0\ref\DAL.dll
 H:\פרויקט סיום\FullStack\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
 H:\פרויקט סיום\FullStack\DAL\obj\Debug\net8.0\DAL.sourcelink.json
 H:\פרויקט סיום\FullStack\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\DAL\obj\Debug\net8.0\ref\DAL.dll

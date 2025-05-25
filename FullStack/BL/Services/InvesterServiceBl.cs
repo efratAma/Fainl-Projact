@@ -20,12 +20,12 @@ namespace BL.Services
             this.investerDal = InvesterDal;
             this.dbClass = dbClass;
         }
-        public bool AddAInvesterBl(InvesterBl investerBl)
+        public bool AddAInvestorBl(InvesterBl investerBl)
         {
             Investor a = dbClass.Investors.FirstOrDefault(x => x.Id == investerBl.Id);
             if (a == null)
-            {
-                var Investor = ConvertToInvesterDal(investerBl);
+            { //אין צורך להמיר 
+                var Investor = ConvertToInvestorDal(investerBl);
                 investerDal.AddInvestor(Investor);
                 dbClass.SaveChanges();
                 return true;
@@ -37,8 +37,19 @@ namespace BL.Services
 
         }
 
+        public bool RemoveInvestorBl(InvesterBl investerBl)
+        {
+            Investor a = dbClass.Investors.FirstOrDefault(x => x.Id == investerBl.Id);
+            if(a != null)
+            {
+                investerDal.RemoveInvestor(a);
+                return true;
+            }
+            return false;
+        }
 
-        public Investor ConvertToInvesterDal(InvesterBl investerBl)
+
+        public Investor ConvertToInvestorDal(InvesterBl investerBl)
         {
 
             return new Investor
@@ -50,5 +61,6 @@ namespace BL.Services
 
             };
         }
+
     }
 }

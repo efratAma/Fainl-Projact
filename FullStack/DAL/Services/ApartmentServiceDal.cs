@@ -15,4 +15,9 @@ public class ApartmentServiceDal : IApartmentDal
         dbClass.Apartments.Add(apartment);
         dbClass.SaveChanges();
     }
+    public void RemoveApartment(Apartment apartment)
+    {
+        dbClass.Apartments.Remove(apartment);
+        dbClass.SaveChanges();
+    }
 }

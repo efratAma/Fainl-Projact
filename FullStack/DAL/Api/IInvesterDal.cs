@@ -10,5 +10,6 @@ namespace DAL.Api
     public interface IInvesterDal
     {
         void AddInvestor(Investor invester);
+        void RemoveInvestor(Investor invester);
     }
 }

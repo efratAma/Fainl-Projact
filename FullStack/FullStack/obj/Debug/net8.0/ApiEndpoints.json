@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_2",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FullStack.Controllers.ApartmentController",
+    "Method": "AddApartment",
+    "RelativePath": "api/Apartment/AddApartment",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apartmentBl",
+        "Type": "FullStack.api.ApartmentBl",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FullStack.Controllers.ApartmentController",
+    "Method": "RemoveApartment",
+    "RelativePath": "api/Apartment/RemoveApartment",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apartmentBl",
+        "Type": "FullStack.api.ApartmentBl",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FullStack.Controllers.InvestorController",
+    "Method": "AddInvestor",
+    "RelativePath": "api/Investor/addInvestor",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "InvesterBl",
+        "Type": "BL.Models.InvesterBl",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FullStack.Controllers.InvestorController",
+    "Method": "RemoveInvestor",
+    "RelativePath": "api/Investor/removeInvestor",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "InvesterBl",
+        "Type": "BL.Models.InvesterBl",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

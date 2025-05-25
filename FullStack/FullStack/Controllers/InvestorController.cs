@@ -21,12 +21,21 @@ namespace FullStack.Controllers
         [HttpPut("addInvestor")]
         public IActionResult AddInvestor([FromBody] InvesterBl InvesterBl)
         {
-            if (_investorServiceBl.AddAInvesterBl(InvesterBl))
+            if (_investorServiceBl.AddAInvestorBl(InvesterBl))
             {
                 return Ok("Investor added successfully");
             }
             return BadRequest("this Investor is alredy exsist");
         }
-      
+        [HttpDelete("removeInvestor")]
+        public IActionResult RemoveInvestor([FromBody] InvesterBl InvesterBl)
+        {
+            if (_investorServiceBl.RemoveInvestorBl(InvesterBl))
+            {
+                return Ok("Investor removed successfully");
+            }
+            return BadRequest("this Investor is not exsist");
+        }
+
     }
 }

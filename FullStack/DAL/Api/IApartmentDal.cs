@@ -11,5 +11,6 @@ namespace DAL.Api
     public interface IApartmentDal
     {
         void AddApartment(Apartment apartment);
+        void RemoveApartment(Apartment apartment);
     }
 }

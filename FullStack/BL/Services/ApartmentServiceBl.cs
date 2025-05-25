@@ -17,7 +17,7 @@ public class ApartmentServiceBl : IApartmentServiceBl
     {
         Apartment a = dbClass.Apartments.FirstOrDefault(x => x.Id == apartmentBl.Id);
         if (a == null)
-        {
+        {//לא צריך להמיר
             var apartment = ConvertToApartmentDal(apartmentBl);
             apartmentDal.AddApartment(apartment);
             return true;
@@ -26,6 +26,17 @@ public class ApartmentServiceBl : IApartmentServiceBl
         {
             return false;
         }
+    }
+
+    public bool RemoveApartmentBl(ApartmentBl apartmentBl)
+    {
+        Apartment a = dbClass.Apartments.FirstOrDefault(x => x.Id == apartmentBl.Id);
+        if (a != null)
+        {
+            apartmentDal.RemoveApartment(a);
+            return true;
+        }
+        return false;
     }
 
     public Apartment ConvertToApartmentDal(ApartmentBl apartmentBl)

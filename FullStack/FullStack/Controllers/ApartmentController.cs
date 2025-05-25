@@ -27,6 +27,16 @@ namespace FullStack.Controllers
             }
            return BadRequest("this apartment is alredy exsist");
         }
-      
+
+        [HttpDelete("RemoveApartment")]
+        public IActionResult RemoveApartment([FromBody] ApartmentBl apartmentBl)
+        {
+            if (_apartmentServiceBl.RemoveApartmentBl(apartmentBl))
+            {
+                return Ok("Apartment removed successfully");
+            }
+            return BadRequest("this apartment is not exsist");
+        }
+
     }
 }

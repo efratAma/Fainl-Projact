@@ -10,7 +10,8 @@ namespace BL.Api
 {
     public interface IInvesterServiceBl
     {
-        Investor ConvertToInvesterDal(InvesterBl investerBl);
-        bool AddAInvesterBl(InvesterBl investerBl);
+        Investor ConvertToInvestorDal(InvesterBl investerBl);
+        bool AddAInvestorBl(InvesterBl investerBl);
+        bool RemoveInvestorBl(InvesterBl investerBl);
     }
 }

@@ -19,7 +19,12 @@ namespace DAL.Services
         public void AddInvestor(Investor invester)
         {
             dbclass.Investors.Add(invester);
-
+            dbclass.SaveChanges();
+        }
+        public void RemoveInvestor(Investor invester)
+        {
+            dbclass.Investors.Remove(invester);
+            dbclass.SaveChanges();
         }
     }
 }
