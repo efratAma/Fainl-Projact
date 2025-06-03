@@ -341,7 +341,6 @@ C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullSt
 C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\FullStack\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FullStack.props
 C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\FullStack\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FullStack.props
 C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\FullStack\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\FullStack\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\FullStack\obj\Debug\net8.0\FullStack.csproj.Up2Date
 C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\FullStack\obj\Debug\net8.0\FullStack.dll
 C:\Users\אפרת עמאר\Desktop\הנדסאים\שנה ב\Fainl-Projact\FullStack\FullStack\obj\Debug\net8.0\refint\FullStack.dll
