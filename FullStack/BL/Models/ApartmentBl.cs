@@ -7,7 +7,7 @@ namespace FullStack.api;
 
 public partial class ApartmentBl
 {
-    IApartmentDal Apartment;
+
     public int Id { get; set; }
 
     public int SquareMeter { get; set; }
@@ -26,8 +26,5 @@ public partial class ApartmentBl
 
     public int ProjectNumber { get; set; }
     
-    public ApartmentBl()
-    {
-       
-    }
+ 
 }

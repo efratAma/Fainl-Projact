@@ -18,6 +18,9 @@ builder.Services.AddScoped<IInvesterDal, InvesterServiceDal>(); // הוספת השירות
 builder.Services.AddScoped<IApartmentDal, ApartmentServiceDal>();
 builder.Services.AddScoped<IApartmentServiceBl, ApartmentServiceBl>();
 
+builder.Services.AddScoped<IProjectDal, ProjectServiceDal>();
+builder.Services.AddScoped<IProjectServiceBl, ProjectServiceBl>();
+
 
 
 

@@ -1,4 +1,5 @@
 ﻿using BL.Api;
+using BL.Exseption;
 using DAL.Api;
 using FullStack.api;
 
@@ -17,10 +18,20 @@ public class ApartmentServiceBl : IApartmentServiceBl
     {
         Apartment a = dbClass.Apartments.FirstOrDefault(x => x.Id == apartmentBl.Id);
         if (a == null)
-        {//לא צריך להמיר
+        {
             var apartment = ConvertToApartmentDal(apartmentBl);
-            apartmentDal.AddApartment(apartment);
-            return true;
+            
+            if (dbClass.Projects.FirstOrDefault(x => x.Id == apartmentBl.ProjectNumber) != null)
+            {
+                apartmentDal.AddApartment(apartment);
+                return true;
+            }
+            else
+            {
+                throw new ExseptionBl($"Project with ID {apartmentBl.ProjectNumber} does not exist.");
+
+
+            }
         }
         else
         {

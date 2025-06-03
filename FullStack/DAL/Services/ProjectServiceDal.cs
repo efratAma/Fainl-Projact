@@ -7,10 +7,19 @@ namespace DAL.Services
 {
     public class ProjectServiceDal : IProjectDal
     {
-        dbClass data;
+        dbClass dbClass;
+        public ProjectServiceDal(dbClass dbClass)
+        {
+            this.dbClass = dbClass;          
+        }
         public void AddProject(Project project)
         {
-            data.Projects.Add(project);
+            dbClass.Projects.Add(project);
+        }
+        public void RemoveProject(Project project)
+        {
+            dbClass.Projects.Remove(project);
+            dbClass.SaveChanges();
         }
     }
 }

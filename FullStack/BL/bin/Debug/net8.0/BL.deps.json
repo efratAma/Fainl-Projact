@@ -1044,10 +1044,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.1"
         },
         "runtime": {
-          "DAL.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DAL.dll": {}
         }
       }
     }

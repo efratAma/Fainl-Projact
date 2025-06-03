@@ -8,5 +8,6 @@ namespace DAL.Api
     public interface IProjectDal
     {
          void AddProject(Project project);
+        void RemoveProject(Project project);
     }
 }
