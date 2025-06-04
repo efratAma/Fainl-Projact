@@ -24,7 +24,7 @@ namespace BL.Services
         {
             Investor a = dbClass.Investors.FirstOrDefault(x => x.Id == investerBl.Id);
             if (a == null)
-            { //אין צורך להמיר 
+            { 
                 var Investor = ConvertToInvestorDal(investerBl);
                 investerDal.AddInvestor(Investor);
                 dbClass.SaveChanges();
@@ -61,6 +61,10 @@ namespace BL.Services
 
             };
         }
+        public List<Investor> GetAllInvestors()
+        {
+            return investerDal.GetAllInvestors();
+        }
 
-    }
+        }
 }

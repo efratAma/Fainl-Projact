@@ -11,5 +11,6 @@ namespace DAL.Api
     {
         void AddInvestor(Investor invester);
         void RemoveInvestor(Investor invester);
+        List<Investor> GetAllInvestors();
     }
 }

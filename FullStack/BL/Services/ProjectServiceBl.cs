@@ -59,5 +59,9 @@ namespace BL.Services
              
             };
         }
+        public List<Project> GetAllProjects()
+        {
+            return _projectDal.GetAllProjects();
+        }
     }
 }

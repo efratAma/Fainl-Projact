@@ -16,7 +16,7 @@ namespace BL.Api
         bool RemoveProjectBl(ProjectBl projectBl);
         Project ConvertToProjectDal(ProjectBl projectBl);
 
-
+        List<Project> GetAllProjects();
 
     }
 }

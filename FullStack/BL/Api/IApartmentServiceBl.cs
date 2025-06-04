@@ -12,5 +12,6 @@ namespace BL.Api
         Apartment ConvertToApartmentDal(ApartmentBl apartmentBl);
         bool AddApartmentBl(ApartmentBl apartmentBl);
         bool RemoveApartmentBl(ApartmentBl apartmentBl);
+
     }
 }

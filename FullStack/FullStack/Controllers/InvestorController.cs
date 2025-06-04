@@ -36,6 +36,16 @@ namespace FullStack.Controllers
             }
             return BadRequest("this Investor is not exsist");
         }
+        [HttpGet("getAllInvestors")]
+        public IActionResult GetAllInvestors()
+        {
+            List<InvesterBl> investors = _investorServiceBl.GetAllInvestorsBl();
+            if (investors != null && investors.Count > 0)
+            {
+                return Ok(investors);
+            }
+            return NotFound("No investors found");
+        }
 
-    }
+        }
 }

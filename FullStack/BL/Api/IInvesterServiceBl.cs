@@ -13,5 +13,6 @@ namespace BL.Api
         Investor ConvertToInvestorDal(InvesterBl investerBl);
         bool AddAInvestorBl(InvesterBl investerBl);
         bool RemoveInvestorBl(InvesterBl investerBl);
+        List<InvesterBl> GetAllInvestorsBl();
     }
 }

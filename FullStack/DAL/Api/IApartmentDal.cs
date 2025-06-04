@@ -12,5 +12,6 @@ namespace DAL.Api
     {
         void AddApartment(Apartment apartment);
         void RemoveApartment(Apartment apartment);
+       
     }
 }

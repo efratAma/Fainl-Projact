@@ -21,5 +21,9 @@ namespace DAL.Services
             dbClass.Projects.Remove(project);
             dbClass.SaveChanges();
         }
+        public List<Project> GetAllProjects()
+        {
+            return dbClass.Projects.ToList();
+        }
     }
 }

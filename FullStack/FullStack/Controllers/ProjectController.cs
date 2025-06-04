@@ -38,7 +38,17 @@ namespace FullStack.Controllers
                 }
                 return BadRequest("this project is not exsist");
             }
+            [HttpGet("GetAllProjects")]
+            public IActionResult GetAllProjects()
+            {
+            List<Project> projects = _projectServiceBl.GetAllProjects();
+            if (projects != null && projects.Count > 0)
+            {
+                return Ok(projects);
+            }
+            return NotFound("No projects found");
+            }
 
-        
+
     }
 }

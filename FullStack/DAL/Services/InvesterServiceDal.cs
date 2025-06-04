@@ -26,5 +26,9 @@ namespace DAL.Services
             dbclass.Investors.Remove(invester);
             dbclass.SaveChanges();
         }
+        public List<Investor> GetAllInvestors()
+        {
+            return dbclass.Investors.ToList();
+        }
     }
 }
