@@ -12,6 +12,6 @@ namespace DAL.Api
     {
         void AddApartment(Apartment apartment);
         void RemoveApartment(Apartment apartment);
-       
+        Apartment GetApartmentById(int id);
     }
 }

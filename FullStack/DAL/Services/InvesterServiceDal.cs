@@ -15,6 +15,10 @@ namespace DAL.Services
         {
             dbclass = _dbclass;
         }
+        public Investor getInvestorById(int id)
+        {
+            return dbclass.Investors.FirstOrDefault(i => i.Id == id);
+        }
 
         public void AddInvestor(Investor invester)
         {
@@ -30,5 +34,9 @@ namespace DAL.Services
         {
             return dbclass.Investors.ToList();
         }
-    }
+        public Investor ShowPersonalArea(int id)
+        {
+            return dbclass.Investors.FirstOrDefault(i => i.Id == id);
+        }
+        }
 }

@@ -20,4 +20,8 @@ public class ApartmentServiceDal : IApartmentDal
         dbClass.Apartments.Remove(apartment);
         dbClass.SaveChanges();
     }
+    public Apartment GetApartmentById(int id) 
+    {
+        return dbClass.Apartments.FirstOrDefault(x => x.Id == id);
+    }
 }

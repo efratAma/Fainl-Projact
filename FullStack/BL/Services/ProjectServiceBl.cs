@@ -12,18 +12,17 @@ namespace BL.Services
 {
     public class ProjectServiceBl: IProjectServiceBl
     {
-        private readonly dbClass dbClass;
         private readonly IProjectDal _projectDal;
 
-        public ProjectServiceBl(IProjectDal projectDal, dbClass dbClass)
+        public ProjectServiceBl(IProjectDal projectDal)
         {
             this._projectDal = projectDal;
-            this.dbClass = dbClass;
+            
         }
 
         public bool AddProjectBl(ProjectBl projectBl)
         {
-            Project p = dbClass.Projects.FirstOrDefault(x => x.Id == projectBl.Id);
+            Project p = _projectDal.GetProjectById(projectBl.Id);
             if (p == null)
             {
                 var project = ConvertToProjectDal(projectBl);
@@ -38,7 +37,7 @@ namespace BL.Services
 
         public bool RemoveProjectBl(ProjectBl projectBl)
         {
-            Project p = dbClass.Projects.FirstOrDefault(x => x.Id == projectBl.Id);
+            Project p = _projectDal.GetProjectById(projectBl.Id);
             if (p != null)
             {
                 _projectDal.RemoveProject(p);

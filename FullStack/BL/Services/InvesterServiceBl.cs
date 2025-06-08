@@ -12,22 +12,20 @@ namespace BL.Services
 {
     public class InvesterServiceBl : IInvesterServiceBl
     {
-        private readonly dbClass dbClass;
         private readonly IInvesterDal investerDal;
 
-        public InvesterServiceBl(IInvesterDal InvesterDal, dbClass dbClass)
+        public InvesterServiceBl(IInvesterDal InvesterDal)
         {
             this.investerDal = InvesterDal;
-            this.dbClass = dbClass;
+            
         }
         public bool AddAInvestorBl(InvesterBl investerBl)
         {
-            Investor a = dbClass.Investors.FirstOrDefault(x => x.Id == investerBl.Id);
+            Investor a = investerDal.getInvestorById(investerBl.Id);
             if (a == null)
-            { 
+            {
                 var Investor = ConvertToInvestorDal(investerBl);
                 investerDal.AddInvestor(Investor);
-                dbClass.SaveChanges();
                 return true;
             }
             else
@@ -39,8 +37,8 @@ namespace BL.Services
 
         public bool RemoveInvestorBl(InvesterBl investerBl)
         {
-            Investor a = dbClass.Investors.FirstOrDefault(x => x.Id == investerBl.Id);
-            if(a != null)
+            Investor a = investerDal.getInvestorById(investerBl.Id);
+            if (a != null)
             {
                 investerDal.RemoveInvestor(a);
                 return true;
@@ -54,17 +52,23 @@ namespace BL.Services
 
             return new Investor
             {
-               Id = investerBl.Id,
-                FirstName= investerBl.FirstName,
-                LastName= investerBl.LastName,
-                InvestmentAmount= investerBl.InvestmentAmount
+                Id = investerBl.Id,
+                FirstName = investerBl.FirstName,
+                LastName = investerBl.LastName,
+                InvestmentAmount = investerBl.InvestmentAmount
 
             };
         }
-        public List<Investor> GetAllInvestors()
+        
+        public List<InvesterBl> GetAllInvestorsBl()
         {
-            return investerDal.GetAllInvestors();
-        }
-
-        }
-}
+            var investors = investerDal.GetAllInvestors();
+            return investors.Select(i => new InvesterBl
+            {
+                Id = i.Id,
+                FirstName = i.FirstName,
+                LastName = i.LastName,
+                InvestmentAmount = i.InvestmentAmount
+            }).ToList();
+        } }
+    }
