@@ -10,5 +10,6 @@ namespace DAL.Api
          void AddProject(Project project);
         void RemoveProject(Project project);
         List<Project> GetAllProjects();
+        Project GetProjectById(int id);
     }
 }

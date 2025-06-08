@@ -3,32 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EA64225-E111-4728-B817-2FEB1EBA79BE}|FullStack\\FullStack.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\fullstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA64225-E111-4728-B817-2FEB1EBA79BE}|FullStack\\FullStack.csproj|solutionrelative:fullstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\helpers\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\helpers\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EA64225-E111-4728-B817-2FEB1EBA79BE}|FullStack\\FullStack.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\fullstack\\controllers\\investorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA64225-E111-4728-B817-2FEB1EBA79BE}|FullStack\\FullStack.csproj|solutionrelative:fullstack\\controllers\\investorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\api\\iinvesterservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\api\\iinvesterservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\services\\projectservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\services\\projectservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\services\\investerservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\services\\investerservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\dal\\api\\iinvesterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\api\\iinvesterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\services\\apartmentservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\services\\apartmentservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA64225-E111-4728-B817-2FEB1EBA79BE}|FullStack\\FullStack.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\fullstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA64225-E111-4728-B817-2FEB1EBA79BE}|FullStack\\FullStack.csproj|solutionrelative:fullstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\dal\\api\\iprojectdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\api\\iprojectdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\dal\\services\\projectservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\services\\projectservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\dal\\api\\iapartmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\api\\iapartmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\dal\\services\\apartmentservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\services\\apartmentservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\models\\projectbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\models\\projectbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\models\\investerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\models\\investerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\dal\\services\\investerservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\services\\investerservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA64225-E111-4728-B817-2FEB1EBA79BE}|FullStack\\FullStack.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\fullstack\\controllers\\investorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA64225-E111-4728-B817-2FEB1EBA79BE}|FullStack\\FullStack.csproj|solutionrelative:fullstack\\controllers\\investorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\dal\\api\\iinvesterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\api\\iinvesterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\api\\iinvesterservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\api\\iinvesterservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\helpers\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\helpers\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EA64225-E111-4728-B817-2FEB1EBA79BE}|FullStack\\FullStack.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\fullstack\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,32 +71,8 @@
       "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\api\\iapartmentservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\services\\projectservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\services\\projectservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\api\\iprojectservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\api\\iprojectservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\dal\\services\\projectservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\services\\projectservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\dal\\api\\iprojectdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\api\\iprojectdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\dal\\api\\iapartmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\api\\iapartmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\services\\apartmentservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\services\\apartmentservicebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\dal\\services\\apartmentservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3796333-C01B-4160-A35C-0BA766A50956}|DAL\\DAL.csproj|solutionrelative:dal\\services\\apartmentservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\exseption\\exseptionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6EA64225-E111-4728-B817-2FEB1EBA79BE}|FullStack\\FullStack.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\fullstack\\controllers\\apartmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EA64225-E111-4728-B817-2FEB1EBA79BE}|FullStack\\FullStack.csproj|solutionrelative:fullstack\\controllers\\apartmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\models\\projectbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\models\\projectbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\models\\investerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|solutionrelative:bl\\models\\investerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A56D9E99-3FC4-4120-9BBE-0A072AF330D3}|BL\\BL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\fainl-projact\\fullstack\\bl\\models\\apartmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -136,40 +136,197 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApartmentServiceBl.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\ApartmentServiceBl.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\ApartmentServiceBl.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\ApartmentServiceBl.cs",
+              "RelativeToolTip": "BL\\Services\\ApartmentServiceBl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:26:09.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectBl.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Models\\ProjectBl.cs",
+              "RelativeDocumentMoniker": "BL\\Models\\ProjectBl.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Models\\ProjectBl.cs",
+              "RelativeToolTip": "BL\\Models\\ProjectBl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:36:24.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvesterBl.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Models\\InvesterBl.cs",
+              "RelativeDocumentMoniker": "BL\\Models\\InvesterBl.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Models\\InvesterBl.cs",
+              "RelativeToolTip": "BL\\Models\\InvesterBl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:23:09.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvesterServiceDal.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\InvesterServiceDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\InvesterServiceDal.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\InvesterServiceDal.cs",
+              "RelativeToolTip": "DAL\\Services\\InvesterServiceDal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:16:10.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\FullStack\\Program.cs",
+              "RelativeDocumentMoniker": "FullStack\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\FullStack\\Program.cs",
+              "RelativeToolTip": "FullStack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:37:26.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvesterServiceBl.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\InvesterServiceBl.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\InvesterServiceBl.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\InvesterServiceBl.cs",
+              "RelativeToolTip": "BL\\Services\\InvesterServiceBl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:20:59.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectServiceBl.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\ProjectServiceBl.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\ProjectServiceBl.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\ProjectServiceBl.cs",
+              "RelativeToolTip": "BL\\Services\\ProjectServiceBl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:25:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectServiceDal.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\ProjectServiceDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\ProjectServiceDal.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\ProjectServiceDal.cs",
+              "RelativeToolTip": "DAL\\Services\\ProjectServiceDal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:49:39.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProjectDal.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IProjectDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Api\\IProjectDal.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IProjectDal.cs",
+              "RelativeToolTip": "DAL\\Api\\IProjectDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:48:34.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IApartmentDal.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IApartmentDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Api\\IApartmentDal.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IApartmentDal.cs",
+              "RelativeToolTip": "DAL\\Api\\IApartmentDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:46:06.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApartmentServiceDal.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\ApartmentServiceDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Services\\ApartmentServiceDal.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\ApartmentServiceDal.cs",
+              "RelativeToolTip": "DAL\\Services\\ApartmentServiceDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:14:30.427Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QueueService.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Helpers\\QueueService.cs",
-              "RelativeDocumentMoniker": "BL\\Helpers\\QueueService.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Helpers\\QueueService.cs",
-              "RelativeToolTip": "BL\\Helpers\\QueueService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "InvestorController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\FullStack\\Controllers\\InvestorController.cs",
+              "RelativeDocumentMoniker": "FullStack\\Controllers\\InvestorController.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\FullStack\\Controllers\\InvestorController.cs",
+              "RelativeToolTip": "FullStack\\Controllers\\InvestorController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T21:54:52.851Z",
+              "WhenOpened": "2025-05-07T14:36:15.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IApartmentServiceBl.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Api\\IApartmentServiceBl.cs",
-              "RelativeDocumentMoniker": "BL\\Api\\IApartmentServiceBl.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Api\\IApartmentServiceBl.cs",
-              "RelativeToolTip": "BL\\Api\\IApartmentServiceBl.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAewA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IInvesterDal.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IInvesterDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Api\\IInvesterDal.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IInvesterDal.cs",
+              "RelativeToolTip": "DAL\\Api\\IInvesterDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T11:31:54.148Z"
+              "WhenOpened": "2025-05-07T11:48:29.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
+              "Title": "IInvesterServiceBl.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Api\\IInvesterServiceBl.cs",
+              "RelativeDocumentMoniker": "BL\\Api\\IInvesterServiceBl.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Api\\IInvesterServiceBl.cs",
+              "RelativeToolTip": "BL\\Api\\IInvesterServiceBl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:21:50.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\FullStack\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "FullStack\\Controllers\\ProjectController.cs",
@@ -181,92 +338,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InvesterServiceDal.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\InvesterServiceDal.cs",
-              "RelativeDocumentMoniker": "DAL\\Services\\InvesterServiceDal.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\InvesterServiceDal.cs",
-              "RelativeToolTip": "DAL\\Services\\InvesterServiceDal.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "IApartmentServiceBl.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Api\\IApartmentServiceBl.cs",
+              "RelativeDocumentMoniker": "BL\\Api\\IApartmentServiceBl.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Api\\IApartmentServiceBl.cs",
+              "RelativeToolTip": "BL\\Api\\IApartmentServiceBl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:16:10.638Z"
+              "WhenOpened": "2025-04-28T11:31:54.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IInvesterDal.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IInvesterDal.cs",
-              "RelativeDocumentMoniker": "DAL\\Api\\IInvesterDal.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IInvesterDal.cs",
-              "RelativeToolTip": "DAL\\Api\\IInvesterDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAApAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Helpers\\QueueService.cs",
+              "RelativeDocumentMoniker": "BL\\Helpers\\QueueService.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Helpers\\QueueService.cs",
+              "RelativeToolTip": "BL\\Helpers\\QueueService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:48:29.268Z"
+              "WhenOpened": "2025-06-04T21:54:52.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InvesterServiceBl.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\InvesterServiceBl.cs",
-              "RelativeDocumentMoniker": "BL\\Services\\InvesterServiceBl.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\InvesterServiceBl.cs",
-              "RelativeToolTip": "BL\\Services\\InvesterServiceBl.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwEIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T14:20:59.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\FullStack\\Program.cs",
-              "RelativeDocumentMoniker": "FullStack\\Program.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\FullStack\\Program.cs",
-              "RelativeToolTip": "FullStack\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T08:37:26.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IInvesterServiceBl.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Api\\IInvesterServiceBl.cs",
-              "RelativeDocumentMoniker": "BL\\Api\\IInvesterServiceBl.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Api\\IInvesterServiceBl.cs",
-              "RelativeToolTip": "BL\\Api\\IInvesterServiceBl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T14:21:50.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InvestorController.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\FullStack\\Controllers\\InvestorController.cs",
-              "RelativeDocumentMoniker": "FullStack\\Controllers\\InvestorController.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\FullStack\\Controllers\\InvestorController.cs",
-              "RelativeToolTip": "FullStack\\Controllers\\InvestorController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T14:36:15.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProjectServiceBl.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\ProjectServiceBl.cs",
-              "RelativeDocumentMoniker": "BL\\Services\\ProjectServiceBl.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\ProjectServiceBl.cs",
-              "RelativeToolTip": "BL\\Services\\ProjectServiceBl.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwD0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:25:34.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "IProjectServiceBl.cs",
               "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Api\\IProjectServiceBl.cs",
               "RelativeDocumentMoniker": "BL\\Api\\IProjectServiceBl.cs",
@@ -278,55 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProjectServiceDal.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\ProjectServiceDal.cs",
-              "RelativeDocumentMoniker": "DAL\\Services\\ProjectServiceDal.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\ProjectServiceDal.cs",
-              "RelativeToolTip": "DAL\\Services\\ProjectServiceDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:49:39.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IProjectDal.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IProjectDal.cs",
-              "RelativeDocumentMoniker": "DAL\\Api\\IProjectDal.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IProjectDal.cs",
-              "RelativeToolTip": "DAL\\Api\\IProjectDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:48:34.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IApartmentDal.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IApartmentDal.cs",
-              "RelativeDocumentMoniker": "DAL\\Api\\IApartmentDal.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Api\\IApartmentDal.cs",
-              "RelativeToolTip": "DAL\\Api\\IApartmentDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T17:46:06.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApartmentServiceBl.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\ApartmentServiceBl.cs",
-              "RelativeDocumentMoniker": "BL\\Services\\ApartmentServiceBl.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Services\\ApartmentServiceBl.cs",
-              "RelativeToolTip": "BL\\Services\\ApartmentServiceBl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:26:09.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ExseptionBl.cs",
               "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Exseption\\ExseptionBl.cs",
               "RelativeDocumentMoniker": "BL\\Exseption\\ExseptionBl.cs",
@@ -338,19 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ApartmentServiceDal.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\ApartmentServiceDal.cs",
-              "RelativeDocumentMoniker": "DAL\\Services\\ApartmentServiceDal.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Services\\ApartmentServiceDal.cs",
-              "RelativeToolTip": "DAL\\Services\\ApartmentServiceDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:14:30.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ApartmentController.cs",
               "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\FullStack\\Controllers\\ApartmentController.cs",
               "RelativeDocumentMoniker": "FullStack\\Controllers\\ApartmentController.cs",
@@ -362,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\DAL\\Models\\Project.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\Project.cs",
@@ -371,30 +407,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T08:01:22.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProjectBl.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Models\\ProjectBl.cs",
-              "RelativeDocumentMoniker": "BL\\Models\\ProjectBl.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Models\\ProjectBl.cs",
-              "RelativeToolTip": "BL\\Models\\ProjectBl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:36:24.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "InvesterBl.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Models\\InvesterBl.cs",
-              "RelativeDocumentMoniker": "BL\\Models\\InvesterBl.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\BL\\Models\\InvesterBl.cs",
-              "RelativeToolTip": "BL\\Models\\InvesterBl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T14:23:09.993Z"
             },
             {
               "$type": "Document",

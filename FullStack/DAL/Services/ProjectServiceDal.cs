@@ -25,5 +25,9 @@ namespace DAL.Services
         {
             return dbClass.Projects.ToList();
         }
+        public Project GetProjectById(int id)
+        {
+            return dbClass.Projects.FirstOrDefault(x => x.Id == id);
+        }
     }
 }
