@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "sSfMAnkAQPvUcOcu6D4ahPP98uvqCtDKOhCdtXBSfRM=",
+  "Hash": "99YzHjTnAeS+qizvyu4r6FDuCvJV7sULIjh7klTQzew=",
   "Source": "FullStack",
   "BasePath": "_content/FullStack",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

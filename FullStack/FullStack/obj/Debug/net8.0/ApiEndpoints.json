@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_2",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_1",
     "RelativePath": "",
     "HttpMethod": "GET",
     "IsController": false,
@@ -67,6 +67,16 @@
   },
   {
     "ContainingType": "FullStack.Controllers.InvestorController",
+    "Method": "GetAllInvestors",
+    "RelativePath": "api/Investor/getAllInvestors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FullStack.Controllers.InvestorController",
     "Method": "RemoveInvestor",
     "RelativePath": "api/Investor/removeInvestor",
     "HttpMethod": "DELETE",
@@ -76,6 +86,48 @@
       {
         "Name": "InvesterBl",
         "Type": "BL.Models.InvesterBl",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FullStack.Controllers.ProjectController",
+    "Method": "AddProject",
+    "RelativePath": "api/Project/AddProject",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectBl",
+        "Type": "BL.Models.ProjectBl",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FullStack.Controllers.ProjectController",
+    "Method": "GetAllProjects",
+    "RelativePath": "api/Project/GetAllProjects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FullStack.Controllers.ProjectController",
+    "Method": "RemoveProject",
+    "RelativePath": "api/Project/RemoveProject",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectBl",
+        "Type": "BL.Models.ProjectBl",
         "IsRequired": true
       }
     ],
