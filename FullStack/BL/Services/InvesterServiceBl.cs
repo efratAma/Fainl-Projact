@@ -70,5 +70,12 @@ namespace BL.Services
                 LastName = i.LastName,
                 InvestmentAmount = i.InvestmentAmount
             }).ToList();
-        } }
+        }
+        public Investor ShowPersonalArea(int id,string FirstName , string LastName)
+        {
+            Investor a = investerDal.getInvestorById(id);
+            return investerDal.ShowPersonalArea(id);
+        }
+
+        } 
     }
