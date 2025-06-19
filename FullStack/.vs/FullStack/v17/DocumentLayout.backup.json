@@ -177,7 +177,7 @@
               "RelativeDocumentMoniker": "FullStack\\Program.cs",
               "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05E2\u05DE\u05D0\u05E8\\Desktop\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\Fainl-Projact\\FullStack\\FullStack\\Program.cs*",
               "RelativeToolTip": "FullStack\\Program.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T08:37:26.324Z",
               "EditorCaption": ""
@@ -192,8 +192,7 @@
               "RelativeToolTip": "DAL\\Models\\dbClass.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:48:39.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T11:48:39.902Z"
             },
             {
               "$type": "Document",
@@ -241,8 +240,7 @@
               "RelativeToolTip": "DAL\\Services\\ApartmentServiceDal.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAuwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:14:30.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T13:14:30.427Z"
             },
             {
               "$type": "Document",
@@ -254,8 +252,7 @@
               "RelativeToolTip": "FullStack\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-18T20:18:29.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T20:18:29.306Z"
             },
             {
               "$type": "Document",
@@ -267,8 +264,7 @@
               "RelativeToolTip": "BL\\Helpers\\QueueService.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAUwEsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T21:54:52.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T21:54:52.851Z"
             },
             {
               "$type": "Document",
